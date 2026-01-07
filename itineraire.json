@@ -1,0 +1,584 @@
+{
+  "pays": "Autriche",
+  "drapeau": "🇦🇹",
+  "symbole": "🏔️",
+  "titre": "Odyssée Relaxante au Cœur de l'Autriche",
+  "budget_total": "Environ 4500 €/personne",
+  "duree": "17 jours",
+  "temps_vol": "13h30 (depuis Wise, États-Unis)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée Impériale à Vienne",
+      "legende": "Après un long voyage, la capitale autrichienne vous accueille. Prenez le temps de vous installer et de faire une première balade douce pour vous imprégner de l'atmosphère viennoise.",
+      "lieu": "Vienne",
+      "activites": [
+        "<strong>🛬</strong>: Arrivée à l'aéroport de Vienne (VIE) et transfert vers votre hôtel.",
+        "<strong>🛏️</strong>: Installation confortable dans votre hébergement au cœur de Vienne.",
+        "<strong>🚶‍♀️</strong>: Première balade relaxante dans le quartier de votre hôtel, pour une immersion douce."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le \"City Airport Train\" (CAT) est le moyen le plus rapide pour rejoindre le centre de Vienne depuis l'aéroport en 16 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Splendeur Impériale et Détente Thermale",
+      "legende": "Découvrez la grandeur de Schönbrunn, puis offrez-vous un moment de pure relaxation dans les eaux bienfaisantes d'un spa thermal viennois.",
+      "lieu": "Vienne",
+      "activites": [
+        "<strong>👑</strong>: Visite du Château de Schönbrunn, résidence d'été des Habsbourg, et promenade dans ses magnifiques jardins baroques.",
+        "<strong>🌳</strong>: Flânerie dans le Gloriette et le Jardin du Prince Héritier, offrant des vues imprenables sur le château et la ville.",
+        "<strong>♨️</strong>: Détente absolue au Thermalbad Oberlaa, un vaste complexe thermal avec piscines intérieures et extérieures."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château de Schönbrunn, Vienne",
+          "categorie": "Château",
+          "coords": { "lat": 48.1853, "lng": 16.3119 }
+        },
+        {
+          "nom_recherche": "Thermalbad Oberlaa, Vienne",
+          "categorie": "Spa thermal",
+          "coords": { "lat": 48.1500, "lng": 16.4000 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Pour Schönbrunn, réservez vos billets en ligne pour éviter les files d'attente, surtout pour la visite intérieure."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏛️",
+      "titre": "Cœur Historique et Douceur Viennoise",
+      "legende": "Plongez dans l'histoire impériale au Hofburg, admirez la majesté de la Cathédrale Saint-Étienne, puis savourez l'ambiance unique d'un café viennois.",
+      "lieu": "Vienne",
+      "activites": [
+        "<strong>👑</strong>: Exploration du Palais de la Hofburg, ancienne résidence d'hiver, incluant les Appartements Impériaux et le Musée Sisi.",
+        "<strong>⛪</strong>: Découverte de la Cathédrale Saint-Étienne (Stephansdom), emblème gothique de Vienne, avec possibilité de monter à la tour sud pour une vue panoramique.",
+        "<strong>☕</strong>: Pause gourmande dans un café viennois traditionnel, pour déguster une Sachertorte et un café Melange."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Palais de la Hofburg, Vienne",
+          "categorie": "Palais",
+          "coords": { "lat": 48.2066, "lng": 16.3655 }
+        },
+        {
+          "nom_recherche": "Cathédrale Saint-Étienne, Vienne",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 48.2085, "lng": 16.3731 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "À pied",
+          "texte": "Le centre historique de Vienne est très agréable à explorer à pied, permettant de découvrir de nombreux trésors cachés."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🎡",
+      "titre": "Flânerie au Prater et Croisière sur le Danube",
+      "legende": "Profitez d'une matinée ludique au Prater, puis laissez-vous bercer par une croisière paisible sur le Danube, offrant une perspective différente sur la ville.",
+      "lieu": "Vienne",
+      "activites": [
+        "<strong>🎡</strong>: Matinée au Prater, le célèbre parc d'attractions de Vienne, avec un tour sur la Grande Roue pour une vue imprenable.",
+        "<strong>🌳</strong>: Promenade relaxante dans la partie verte du Prater, loin de l'agitation des attractions.",
+        "<strong>🚢</strong>: Croisière douce sur le Danube, pour admirer les rives de Vienne et ses monuments sous un autre angle."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Prater, Vienne",
+          "categorie": "Parc d'attractions",
+          "coords": { "lat": 48.2173, "lng": 16.4024 }
+        },
+        {
+          "nom_recherche": "Donaukanal, Vienne",
+          "categorie": "Canal",
+          "coords": { "lat": 48.2100, "lng": 16.3800 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Repas",
+          "texte": "De nombreux \"Heuriger\" (tavernes à vin) se trouvent le long du Danube, parfaits pour un dîner typiquement autrichien."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🚆",
+      "titre": "Voyage vers Salzbourg et Charmes Baroques",
+      "legende": "Un trajet en train pittoresque vous mène à Salzbourg, la ville de Mozart. Installez-vous et commencez à explorer son centre historique classé à l'UNESCO.",
+      "lieu": "Salzbourg",
+      "activites": [
+        "<strong>🚆</strong>: Voyage en train confortable de Vienne à Salzbourg (environ 2h30), admirant les paysages autrichiens.",
+        "<strong>🛏️</strong>: Installation à votre hôtel au cœur de Salzbourg.",
+        "<strong>🚶‍♀️</strong>: Première découverte du centre historique de Salzbourg, avec ses ruelles médiévales et ses places baroques."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare Centrale de Salzbourg, Salzbourg",
+          "categorie": "Gare",
+          "coords": { "lat": 47.8130, "lng": 13.0450 }
+        },
+        {
+          "nom_recherche": "Centre historique de Salzbourg, Salzbourg",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 47.8000, "lng": 13.0400 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🎶",
+          "titre": "Musique",
+          "texte": "Salzbourg est la ville natale de Mozart, et son héritage musical est omniprésent. Ne manquez pas les boutiques de souvenirs dédiées."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🌸",
+      "titre": "Jardins de Mirabell et Forteresse Imprenable",
+      "legende": "Flânez dans les magnifiques Jardins de Mirabell, puis prenez le funiculaire pour atteindre la Forteresse de Hohensalzburg et profiter de vues spectaculaires.",
+      "lieu": "Salzbourg",
+      "activites": [
+        "<strong>🌷</strong>: Promenade matinale dans les Jardins de Mirabell, célèbres pour leurs parterres fleuris et leurs statues baroques.",
+        "<strong>🏰</strong>: Ascension en funiculaire jusqu'à la Forteresse de Hohensalzburg, l'une des plus grandes forteresses médiévales d'Europe.",
+        "<strong> panoramic</strong>: Exploration de la forteresse et contemplation des vues panoramiques sur la ville et les Alpes environnantes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardins de Mirabell, Salzbourg",
+          "categorie": "Jardin",
+          "coords": { "lat": 47.8060, "lng": 13.0460 }
+        },
+        {
+          "nom_recherche": "Forteresse de Hohensalzburg, Salzbourg",
+          "categorie": "Forteresse",
+          "coords": { "lat": 47.7940, "lng": 13.0460 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Salzburg Card",
+          "texte": "La Salzburg Card peut être avantageuse pour les transports et les entrées aux attractions, y compris le funiculaire de la forteresse."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🏞️",
+      "titre": "Évasion au Lac Wolfgangsee",
+      "legende": "Échappez à l'agitation de la ville pour une journée de sérénité au bord du lac Wolfgangsee, avec une croisière relaxante et une exploration de St. Gilgen.",
+      "lieu": "Wolfgangsee",
+      "activites": [
+        "<strong>🚌</strong>: Excursion en bus vers le magnifique lac Wolfgangsee, au cœur de la région du Salzkammergut.",
+        "<strong>🚢</strong>: Croisière paisible sur le lac Wolfgangsee, admirant les villages pittoresques et les montagnes environnantes.",
+        "<strong>🚶‍♀️</strong>: Balade dans le charmant village de St. Gilgen, avec ses maisons colorées et son ambiance lacustre."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Lac Wolfgangsee, St. Gilgen",
+          "categorie": "Lac",
+          "coords": { "lat": 47.7700, "lng": 13.4000 }
+        },
+        {
+          "nom_recherche": "St. Gilgen, Autriche",
+          "categorie": "Village",
+          "coords": { "lat": 47.7700, "lng": 13.3600 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photo",
+          "texte": "Le lac Wolfgangsee offre des opportunités de photos incroyables, surtout au lever ou au coucher du soleil."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🏘️",
+      "titre": "Hallstatt, Perle du Salzkammergut",
+      "legende": "Voyagez vers Hallstatt, un village de carte postale niché entre lac et montagnes. Explorez ses ruelles et profitez d'une vue imprenable depuis le lac.",
+      "lieu": "Hallstatt",
+      "activites": [
+        "<strong>🚌</strong>: Trajet en bus et/ou train vers Hallstatt, un des plus beaux villages d'Autriche (environ 1h30-2h depuis Salzbourg).",
+        "<strong>🛏️</strong>: Installation dans votre hébergement à Hallstatt ou dans les environs proches.",
+        "<strong>🚶‍♀️</strong>: Découverte du village de Hallstatt, ses maisons traditionnelles et son église pittoresque, suivi d'une balade au bord du lac."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Hallstatt, Autriche",
+          "categorie": "Village",
+          "coords": { "lat": 47.5622, "lng": 13.6486 }
+        },
+        {
+          "nom_recherche": "Lac Hallstatt, Hallstatt",
+          "categorie": "Lac",
+          "coords": { "lat": 47.5600, "lng": 13.6500 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Hallstatt est très populaire. Visitez tôt le matin ou en fin d'après-midi pour éviter les foules et profiter de la sérénité du lieu."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "⛰️",
+      "titre": "Sérénité au Gosausee et Vues Alpines",
+      "legende": "Profitez de la tranquillité du lac Gosausee, entouré de montagnes majestueuses, et laissez-vous émerveiller par les panoramas alpins accessibles en douceur.",
+      "lieu": "Gosausee",
+      "activites": [
+        "<strong>🚌</strong>: Courte excursion en bus vers le Gosausee, un lac alpin d'une beauté époustouflante.",
+        "<strong>🚶‍♀️</strong>: Balade facile autour du Vorderer Gosausee, avec des vues spectaculaires sur le glacier du Dachstein.",
+        "<strong>🚠</strong>: Montée en téléphérique (Gosaukammbahn) pour admirer des panoramas alpins sans effort, puis retour à Hallstatt."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gosausee, Gosau",
+          "categorie": "Lac",
+          "coords": { "lat": 47.5600, "lng": 13.5000 }
+        },
+        {
+          "nom_recherche": "Gosaukammbahn, Gosau",
+          "categorie": "Téléphérique",
+          "coords": { "lat": 47.5600, "lng": 13.5000 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🥾",
+          "titre": "Randonnée",
+          "texte": "Des sentiers de randonnée faciles sont disponibles autour du lac, parfaits pour une promenade relaxante en pleine nature."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🌆",
+      "titre": "Voyage vers Graz et Découverte Urbaine",
+      "legende": "Un nouveau voyage en train vous mène à Graz, la capitale de la Styrie. Installez-vous et explorez son centre historique dynamique et son Schlossberg.",
+      "lieu": "Graz",
+      "activites": [
+        "<strong>🚆</strong>: Trajet en train de Hallstatt (via Attnang-Puchheim) à Graz (environ 3-4h), traversant des paysages variés.",
+        "<strong>🛏️</strong>: Installation à votre hôtel à Graz.",
+        "<strong>🚶‍♀️</strong>: Première exploration du centre historique de Graz, classé à l'UNESCO, et montée au Schlossberg (en funiculaire ou ascenseur) pour une vue sur la ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare Centrale de Graz, Graz",
+          "categorie": "Gare",
+          "coords": { "lat": 47.0720, "lng": 15.4260 }
+        },
+        {
+          "nom_recherche": "Schlossberg, Graz",
+          "categorie": "Colline",
+          "coords": { "lat": 47.0730, "lng": 15.4380 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Curiosité",
+          "texte": "Le Schlossberg abrite une tour de l'horloge emblématique, dont les aiguilles des heures et des minutes sont inversées."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🎨",
+      "titre": "Art, Marché et Douceur Styrienne",
+      "legende": "Découvrez l'architecture moderne du Kunsthaus, flânez au marché pour goûter aux saveurs locales, et profitez de l'ambiance décontractée de Graz.",
+      "lieu": "Graz",
+      "activites": [
+        "<strong>🖼️</strong>: Visite du Kunsthaus Graz, le \"Friendly Alien\", un musée d'art contemporain à l'architecture futuriste.",
+        "<strong>🛍️</strong>: Promenade au marché fermier de Kaiser-Josef-Platz, pour découvrir les produits locaux de Styrie.",
+        "<strong>🚶‍♀️</strong>: Balade le long de la Mur, la rivière qui traverse Graz, et détente dans un café au bord de l'eau."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kunsthaus Graz, Graz",
+          "categorie": "Musée",
+          "coords": { "lat": 47.0720, "lng": 15.4340 }
+        },
+        {
+          "nom_recherche": "Kaiser-Josef-Platz Markt, Graz",
+          "categorie": "Marché",
+          "coords": { "lat": 47.0700, "lng": 15.4400 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🎃",
+          "titre": "Spécialité",
+          "texte": "Goûtez à l'huile de pépins de courge de Styrie, une spécialité locale délicieuse et saine."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "♨️",
+      "titre": "Journée de Bien-être Thermal en Styrie",
+      "legende": "Offrez-vous une journée de pure relaxation dans l'un des célèbres spas thermaux de Styrie, pour recharger vos batteries dans un cadre apaisant.",
+      "lieu": "Styrie",
+      "activites": [
+        "<strong>🚌</strong>: Excursion en bus ou en taxi vers un spa thermal réputé de Styrie, comme Rogner Bad Blumau ou Therme Loipersdorf.",
+        "<strong>🧖‍♀️</strong>: Profitez des différentes piscines thermales, saunas et zones de relaxation pour une journée de bien-être.",
+        "<strong>💆‍♀️</strong>: Possibilité de s'offrir un massage ou un soin (à réserver à l'avance) pour une détente maximale."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Rogner Bad Blumau, Bad Blumau",
+          "categorie": "Spa thermal",
+          "coords": { "lat": 47.1600, "lng": 16.0300 }
+        },
+        {
+          "nom_recherche": "Therme Loipersdorf, Loipersdorf",
+          "categorie": "Spa thermal",
+          "coords": { "lat": 46.9500, "lng": 16.0300 }
+        }
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Vérifiez les horaires et les offres des spas à l'avance, certains proposent des forfaits journée très intéressants."
+        }
+      ]
+    },
+    {
+      "jour": 13,
+      "symbole": "🍇",
+      "titre": "Vallée de la Wachau et Abbaye de Melk",
+      "legende": "Quittez Graz pour la magnifique vallée de la Wachau, classée à l'UNESCO. Visitez l'impressionnante Abbaye de Melk et profitez des paysages viticoles.",
+      "lieu": "Melk / Wachau",
+      "activites": [
+        "<strong>🚆</strong>: Trajet en train de Graz à Melk (environ 3h), porte d'entrée de la Wachau.",
+        "<strong>🏰</strong>: Visite de l'Abbaye de Melk, un chef-d'œuvre baroque perché au-dessus du Danube, avec ses jardins et sa bibliothèque.",
+        "<strong>🚶‍♀️</strong>: Balade relaxante le long du Danube à Melk, admirant les vignobles en terrasses."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Abbaye de Melk, Melk",
+          "categorie": "Abbaye",
+          "coords": { "lat": 48.2270, "lng": 15.3200 }
+        },
+        {
+          "nom_recherche": "Wachau, Autriche",
+          "categorie": "Région viticole",
+          "coords": { "lat": 48.3500, "lng": 15.4500 }
+        }
+      ],
+      "illustration": "jour13.jpg",
+      "encarts": [
+        {
+          "symbole": "🍷",
+          "titre": "Vin",
+          "texte": "La Wachau est réputée pour ses vins blancs, notamment le Grüner Veltliner et le Riesling. N'hésitez pas à faire une dégustation."
+        }
+      ]
+    },
+    {
+      "jour": 14,
+      "symbole": "🚢",
+      "titre": "Croisière sur le Danube et Retour à Vienne",
+      "legende": "Profitez d'une croisière paisible à travers la Wachau, découvrez le charmant village de Dürnstein, puis retournez à Vienne pour la fin de votre séjour.",
+      "lieu": "Dürnstein / Vienne",
+      "activites": [
+        "<strong>🚢</strong>: Croisière relaxante sur le Danube de Melk à Dürnstein (ou Krems), traversant les paysages viticoles de la Wachau.",
+        "<strong>🚶‍♀️</strong>: Exploration du village médiéval de Dürnstein, avec ses ruelles pavées et les ruines de son château.",
+        "<strong>🚆</strong>: Retour en train de la Wachau (depuis Krems ou Dürnstein) à Vienne (environ 1h)."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Dürnstein, Autriche",
+          "categorie": "Village",
+          "coords": { "lat": 48.3930, "lng": 15.5200 }
+        },
+        {
+          "nom_recherche": "Gare de Krems an der Donau, Krems",
+          "categorie": "Gare",
+          "coords": { "lat": 48.4090, "lng": 15.6000 }
+        }
+      ],
+      "illustration": "jour14.jpg",
+      "encarts": [
+        {
+          "symbole": "🍑",
+          "titre": "Spécialité",
+          "texte": "En saison, goûtez aux abricots de la Wachau, célèbres pour leur saveur unique, et aux produits dérivés (liqueurs, confitures)."
+        }
+      ]
+    },
+    {
+      "jour": 15,
+      "symbole": "🖼️",
+      "titre": "Musées et Douceur de Vivre Viennoise",
+      "legende": "Plongez dans l'art et la culture au MuseumsQuartier, puis savourez l'art de vivre viennois dans un café historique.",
+      "lieu": "Vienne",
+      "activites": [
+        "<strong>🎨</strong>: Visite du MuseumsQuartier (MQ), un complexe culturel abritant plusieurs musées. Choisissez-en un ou deux selon vos envies (ex: Leopold Museum).",
+        "<strong>🚶‍♀️</strong>: Promenade dans les cours intérieures du MQ, profitant de l'ambiance décontractée et des installations artistiques.",
+        "<strong>🍰</strong>: Détente dans un café viennois emblématique comme le Café Central ou le Café Demel, pour une dernière immersion gourmande."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "MuseumsQuartier, Vienne",
+          "categorie": "Quartier culturel",
+          "coords": { "lat": 48.2030, "lng": 16.3590 }
+        },
+        {
+          "nom_recherche": "Café Central, Vienne",
+          "categorie": "Café historique",
+          "coords": { "lat": 48.2100, "lng": 16.3660 }
+        }
+      ],
+      "illustration": "jour15.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Le Leopold Museum abrite la plus grande collection d'œuvres d'Egon Schiele au monde, ainsi que des œuvres de Gustav Klimt."
+        }
+      ]
+    },
+    {
+      "jour": 16,
+      "symbole": "🛍️",
+      "titre": "Shopping et Adieux à Vienne",
+      "legende": "Profitez d'une dernière matinée pour quelques achats de souvenirs, puis offrez-vous un moment de détente dans un parc avant un dîner d'adieu.",
+      "lieu": "Vienne",
+      "activites": [
+        "<strong>🛍️</strong>: Matinée shopping dans les rues commerçantes de Vienne (Kohlmarkt, Graben, Kärntner Straße) pour des souvenirs ou des spécialités locales.",
+        "<strong>🌳</strong>: Moment de calme au Stadtpark, un magnifique parc urbain avec des monuments dédiés à des compositeurs célèbres comme Johann Strauss.",
+        "<strong>🍽️</strong>: Dîner d'adieu dans un restaurant viennois typique, pour savourer une dernière fois la cuisine autrichienne."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Kärntner Straße, Vienne",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 48.2050, "lng": 16.3700 }
+        },
+        {
+          "nom_recherche": "Stadtpark, Vienne",
+          "categorie": "Parc",
+          "coords": { "lat": 48.2040, "lng": 16.3780 }
+        }
+      ],
+      "illustration": "jour16.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Pensez aux chocolats Mozartkugel, aux porcelaines Augarten ou aux produits à base de violette pour des souvenirs authentiques."
+        }
+      ]
+    },
+    {
+      "jour": 17,
+      "symbole": "🛫",
+      "titre": "Départ de Vienne",
+      "legende": "C'est le moment de dire au revoir à l'Autriche, la tête pleine de souvenirs impériaux, alpins et relaxants. Transfert vers l'aéroport pour votre vol retour.",
+      "lieu": "Vienne",
+      "activites": [
+        "<strong>🛏️</strong>: Petit-déjeuner à l'hôtel et derniers préparatifs.",
+        "<strong>✈️</strong>: Transfert vers l'aéroport de Vienne (VIE) pour votre vol retour vers Wise, États-Unis.",
+        "<strong>👋</strong>: Départ, emportant avec vous les doux souvenirs de votre odyssée autrichienne."
+      ],
+      "illustration": "jour17.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Conseil",
+          "texte": "Prévoyez suffisamment de temps pour le transfert à l'aéroport et les formalités d'embarquement."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 813 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 250 €/pers (trains, bus, transports locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 1020 €/pers (60 €/jour x 17 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1840 €/pers (115 €/nuit x 16 nuits en 3* )", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 595 €/pers (35 €/jour x 17 jours)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Septembre (pour les couleurs d'automne et moins de foule)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En septembre, les températures varient entre 10 et 20°C. Prévoir des couches de vêtements, un imperméable et des chaussures confortables.", "symbole": "🍁" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le réseau de transports en commun (trains ÖBB, bus) est excellent et permet de se déplacer facilement entre les villes. La conduite est à droite.", "symbole": "🚆" },
+    { "titre": "La plupart des hôtels et restaurants offrent le Wi-Fi gratuit. Une eSIM ou une carte SIM locale peut être utile pour la navigation.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Vienne est l'une des rares villes au monde à posséder des \"Paternoster\", des ascenseurs sans porte qui ne s'arrêtent jamais. Monter dedans est une expérience à la fois fascinante et un peu vertigineuse !"
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Les célèbres chevaux Lipizzans de l'École Espagnole d'Équitation de Vienne sont nés noirs et ne deviennent blancs qu'en grandissant. Un fait amusant pour ces danseurs équins d'exception !"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Wiener Schnitzel",
+      "description": "Une escalope de veau très fine, panée et frite, servie traditionnellement avec une tranche de citron et une salade de pommes de terre. Un classique incontournable !"
+    },
+    {
+      "symbole": "🍰",
+      "titre": "Sachertorte",
+      "description": "Le gâteau au chocolat le plus célèbre de Vienne, composé de deux couches de génoise au chocolat, d'une fine couche de confiture d'abricot et d'un glaçage au chocolat noir. Un délice impérial !"
+    },
+    {
+      "symbole": "🍎",
+      "titre": "Apfelstrudel",
+      "description": "Un feuilleté croustillant fourré aux pommes, raisins secs et cannelle, souvent servi tiède avec une boule de glace vanille ou de la crème. Parfait pour une pause gourmande."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CLT-VIE/2026-09-10/2026-09-27", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Autriche", "url": "https://www.austria.info/fr", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "ÖBB (Chemins de fer autrichiens)", "url": "https://www.oebb.at/fr/", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Autriche", "url": "https://www.zamg.ac.at/cms/de/wetter/wetter-oesterreich", "symbole": "🌤️" }
+  ]
+}
